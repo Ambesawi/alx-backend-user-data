@@ -51,4 +51,3 @@ This project follows open-source principles and is released under the MIT Licens
 Feel free to replace `[Your Name]` with your actual name or preferred attribution.
 
 This README provides an overview of the Basic Authentication project, its learning objectives, and essential information to ensure code quality, documentation, and adherence to Python coding standards.
-
