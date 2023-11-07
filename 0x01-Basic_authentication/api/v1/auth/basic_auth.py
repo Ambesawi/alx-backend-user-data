@@ -95,4 +95,3 @@ class BasicAuth(Auth):
                         return self.user_object_from_credentials(email, pword)
         return
 
-
