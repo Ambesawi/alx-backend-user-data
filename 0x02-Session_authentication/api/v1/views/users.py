@@ -126,4 +126,3 @@ def update_user(user_id: str = None) -> str:
     user.save()
     return jsonify(user.to_json()), 200
 
-
