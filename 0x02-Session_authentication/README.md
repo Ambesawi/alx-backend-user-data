@@ -53,7 +53,7 @@ Explain how to run your code and give examples if applicable.
 
 ## Author
 
-[Your Name]
+Aman Brhane
 
 ## License
 
